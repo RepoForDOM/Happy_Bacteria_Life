@@ -1,0 +1,7 @@
+/target/
+/config/
+/docker/
+.classpath
+.project
+.settings
+
