@@ -1,0 +1,4 @@
+org/happybacterialife/core/CellsFormatter.class
+org/happybacterialife/core/DeadOrAlive.class
+org/happybacterialife/core/CellsReactor.class
+org/happybacterialife/core/CellsParser.class
